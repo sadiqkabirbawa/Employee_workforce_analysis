@@ -1,0 +1,13 @@
+employee_id,department_id,job_role,years_experience,salary,age
+E001,D01,Support Specialist,2,1200,24
+E002,D01,Software Developer,4,2200,27
+E003,D02,Accountant,5,2100,30
+E004,D03,HR Officer,3,1500,26
+E005,D01,Software Developer,7,3400,32
+E006,D04,Marketing Officer,2,1400,25
+E007,D02,Senior Accountant,9,3600,38
+E008,D03,HR Manager,10,3900,40
+E009,D01,Support Specialist,6,1900,31
+E010,D04,Marketing Manager,8,3300,36
+E011,D02,Accountant,3,1800,28
+E012,D01,Junior Developer,1,1000,23
